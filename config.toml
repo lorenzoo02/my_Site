@@ -8,6 +8,7 @@ languagecode = "en"
 
 paginate = 20
 canonifyurls = false
+relativeURLs = true
 
 
 pygmentsstyle = "b2"
