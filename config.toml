@@ -8,7 +8,7 @@ languagecode = "en"
 
 paginate = 20
 canonifyurls = true
-relativeURLs = true
+relativeURLs = false
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
@@ -138,21 +138,21 @@ disqusShortname = "yourdiscussshortname"
         [languages.it.menu]
 
             [[languages.it.menu.main]]
-            name = "Di"
+            name = "content"
             weight = 1
-            url = "about/"
+            url = "di"
 
             [[languages.it.menu.main]]
             name = "Blog"
             weight = 2
-            url = "posts/"
+            url = "blog_it"
 
             [[languages.it.menu.main]]
             name = "Progetti"
             weight = 3
-            url = "projects/"
+            url = "progetti"
 
             [[languages.it.menu.main]]
-            name = "Contattami/"
+            name = "Contattami"
             weight = 5
-            url = "contact/"
+            url = "contattami"
