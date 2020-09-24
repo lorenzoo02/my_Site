@@ -1,6 +1,7 @@
 +++
 title = "About Hugo"
 slug = "about"
+date = 2020-09-24T15:04:34+02:00
 +++
 
 Hugo is a static site engine written in Go.
