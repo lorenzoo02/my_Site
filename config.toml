@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "/"
 title = "Lorenzo Popescu"
 
 theme = "hugo-coder"
@@ -8,7 +8,8 @@ languagecode = "en"
 
 paginate = 20
 canonifyurls = true
-relativeURLs = false
+relativeURls = false
+
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
@@ -138,7 +139,7 @@ disqusShortname = "yourdiscussshortname"
         [languages.it.menu]
 
             [[languages.it.menu.main]]
-            name = "content"
+            name = "di"
             weight = 1
             url = "di"
 
