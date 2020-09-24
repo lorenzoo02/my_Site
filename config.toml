@@ -124,36 +124,3 @@ disqusShortname = "yourdiscussshortname"
             name = "Contact me"
             weight = 5
             url = "contact_me"
-
-
-    [languages.it]
-        languagename = "Italiano"
-
-        [languages.it.params]
-            author = "Lorenzo Popescu"
-            info = "Studente di informatica"
-            description = "Sito personale"
-            keywords = "blog,sviluppatore,personale"
-            footercontent = "In sviluppo..."
-
-        [languages.it.menu]
-
-            [[languages.it.menu.main]]
-            name = "di"
-            weight = 1
-            url = "di"
-
-            [[languages.it.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "blog_it"
-
-            [[languages.it.menu.main]]
-            name = "Progetti"
-            weight = 3
-            url = "progetti"
-
-            [[languages.it.menu.main]]
-            name = "Contattami"
-            weight = 5
-            url = "contattami"
