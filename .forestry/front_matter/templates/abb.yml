@@ -11,3 +11,8 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: prova
+  type: tag_list
+  default: []
+  label: prova
+  description: testooo
