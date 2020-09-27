@@ -1,6 +1,6 @@
 +++
 title = "About Hugo"
-slug = "about"
+slug= "about"
 date = 2020-09-24T15:04:34+02:00
 +++
 

@@ -6,20 +6,23 @@ theme = "hugo-coder"
 defaultcontentlanguage = "en"
 languagecode = "en"
 
-paginate = 20
+paginate = 5
 canonifyurls = true
 relativeURls = false
+
+pluralizelisttitles = false
 
 
 pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+pygmentUseClasses = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "Lorenzo"
 
 [params]
     author = "Lorenzo Popescu"
-    description = "Personal site"
+    description = "My personal site"
     keywords = "blog,developer,personal"
     info = "Computer science student"
     avatar=true
@@ -68,7 +71,6 @@ disqusShortname = "yourdiscussshortname"
     serverURL = "analytics.example.com"
 
 [taxonomies]
-  category = "categories"
   series = "series"
   tag = "tags"
 
@@ -99,16 +101,12 @@ disqusShortname = "yourdiscussshortname"
     url = "https://www.facebook.com/lorenzo.popescu.3/"
 
 
-[languages]
-    [languages.en]
-        languagename = "English"
-
-        [languages.en.menu]
 
             [[languages.en.menu.main]]
             name = "About"
             weight = 1
             url = "about"
+
 
             [[languages.en.menu.main]]
             name = "Blog"
@@ -122,5 +120,5 @@ disqusShortname = "yourdiscussshortname"
 
             [[languages.en.menu.main]]
             name = "Contact me"
-            weight = 5
+            weight = 4
             url = "contact"
