@@ -65,11 +65,11 @@ Link di sponsorizzazione: https://inb.network/#/?ref=d316c56
 ![3](https://picc.io/LiRtYc4.jpg)
 
 - - -
-###### Assistenza durante tutto il percorso, strategie per massimizzare il guadagno, gruppo telegram! 
-!Prima di effettuare la registrazione scrivetemi così da eseguirla correttamente!
+###### Informazioni, assistenza durante tutto il percorso, strategie per massimizzare il guadagno, gruppo telegram! 
 
 Contattare su: 
 * [Telegram](https://telegram.me/lorenzo2202)
 * <lorenzopopescu01@gmail.com>
 - - -
 
+Prima di effettuare la registrazione scrivetemi su uno dei contatti in 👆 così da chiarire ogni dubbio ed eseguire l'iscrizione senza saltare nessun passaggio.
