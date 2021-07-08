@@ -4,7 +4,7 @@ description = "Guadagno passivo"
 author = ""
 date = 2021-07-08T17:41:29+02:00
 tags = ["guadagno passivo"]
-draft = true
+draft = false
 +++
 
 ![4](https://picc.io/e6XR_Nf.jpg#right)
