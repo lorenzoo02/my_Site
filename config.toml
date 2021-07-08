@@ -20,6 +20,13 @@ pygmentUseClasses = true
 
 disqusShortname = "Lorenzo"
 
+custom_js = ["js/custom.js"]
+
+[comments]
+    engine = 2
+    commentable = {page = true, post = true, docs = true}
+
+
 [params]
     author = "Lorenzo Popescu"
     description = "My personal site"
@@ -28,7 +35,6 @@ disqusShortname = "Lorenzo"
     avatar=true
     avatarurl = "images/logo.png"
     footercontent = "In development..."
-
 
     dateformat = "January 2, 2006"
 

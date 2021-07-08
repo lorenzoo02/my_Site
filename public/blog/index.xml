@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Lorenzo Popescu</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on Lorenzo Popescu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Sep 2020 15:04:34 +0200</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI MARKETING</title>
+      <link>/blog/blog/</link>
+      <pubDate>Thu, 24 Sep 2020 15:04:34 +0200</pubDate>
+      
+      <guid>/blog/blog/</guid>
+      <description>AI MARKETING, ovvero intelligenza artificiale come suggerisce il nome ai marketing.
+Sempre più lavori si stanno automatizzando e l&amp;rsquo;intelligenza artificiale sta gradualmente prendendo posto nelle nostre attività quotidiane. Tutte le principali compagnie GOOGLE, APPLE, AMAZON, ALIBABA, AIRBNB, BOOKING. COM, SKYSCANNER, UBER si sono evoluti attraverso la digitalizzazione delle loro attività.
+Nella stessa ondata, AI MARKETING si posiziona sulla stessa lunghezza d&amp;rsquo;onda di queste grandi multinazionali digitalizzando il loro marketing.
+AI MARKETING offre quindi un modo (attraverso il suo MarketBot) per attirare i clienti verso tutte queste grandi aziende chiamate aggregatori poiché funziona con un sistema di cashback.</description>
+    </item>
+    
+  </channel>
+</rss>
