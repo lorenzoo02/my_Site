@@ -51,7 +51,7 @@ Wexford Alliance Limited ritiene che il suo servizio di pubblicità online AI MA
 
 # Questa è un'occasione unica da non perdere.
 ☑️ Registrati ora, il link di registrazione contenente il buono regalo da $50: \
-👉🏾 https://ai.marketing/it/campaign/SMB4-ZOTJ-RWWX-Q2B9 \
+👉🏾 https://ai.marketing/it/campaign/SMB4-ZOTJ-RWWX-Q2B9 
 
 Iscriviti 👆 anche se non hai ancora i fondi da investire, avrai i 50$ pronti e sperimenterai il robot e vedrai come funziona😌👌 .... 
 
