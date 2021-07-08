@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenzo Popescu</title>
+    <link>/</link>
+    <description>Recent content on Lorenzo Popescu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Sep 2020 15:18:05 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact me</title>
+      <link>/contact/contact/</link>
+      <pubDate>Thu, 24 Sep 2020 15:18:05 +0200</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test 3</title>
+      <link>/projects/project/</link>
+      <pubDate>Thu, 24 Sep 2020 15:14:14 +0200</pubDate>
+      
+      <guid>/projects/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>/about/about/</link>
+      <pubDate>Thu, 24 Sep 2020 15:04:34 +0200</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>AI MARKETING</title>
+      <link>/blog/blog/</link>
+      <pubDate>Thu, 24 Sep 2020 15:04:34 +0200</pubDate>
+      
+      <guid>/blog/blog/</guid>
+      <description>AI MARKETING, ovvero intelligenza artificiale come suggerisce il nome ai marketing.
+Sempre più lavori si stanno automatizzando e l&amp;rsquo;intelligenza artificiale sta gradualmente prendendo posto nelle nostre attività quotidiane. Tutte le principali compagnie GOOGLE, APPLE, AMAZON, ALIBABA, AIRBNB, BOOKING. COM, SKYSCANNER, UBER si sono evoluti attraverso la digitalizzazione delle loro attività.
+Nella stessa ondata, AI MARKETING si posiziona sulla stessa lunghezza d&amp;rsquo;onda di queste grandi multinazionali digitalizzando il loro marketing.
+AI MARKETING offre quindi un modo (attraverso il suo MarketBot) per attirare i clienti verso tutte queste grandi aziende chiamate aggregatori poiché funziona con un sistema di cashback.</description>
+    </item>
+    
+  </channel>
+</rss>
